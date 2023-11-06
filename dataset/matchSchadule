@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Australia vs Netherlands, 37th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-10-26",
+        "dateTimeGMT": "2023-10-26T14:30:00",
+        "teams": [
+            "Australia",
+            "Netherlands"
+        ],
+        "teamInfo": [
+            {
+                "name": "Australia",
+                "shortname": "AUS",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+            },
+            {
+                "name": "Netherlands",
+                "shortname": "NED",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+            }
+        ]
+    },
+    {
+        "name": "Sri Lanka vs Bangladesh, 38th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-10-27",
+        "dateTimeGMT": "2023-10-27T14:30:00",
+        "teams": [
+            "Sri Lanka",
+            "Bangladesh"
+        ],
+        "teamInfo": [
+            {
+                "name": "Sri Lanka",
+                "shortname": "SL",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+            },
+            {
+                "name": "Bangladesh",
+                "shortname": "BAN",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+            }
+        ]
+    },
+    {
+        "name": "England vs Afghanistan, 39th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-10-28",
+        "dateTimeGMT": "2023-10-28T14:30:00",
+        "teams": [
+            "England",
+            "Afghanistan"
+        ],
+        "teamInfo": [
+            {
+                "name": "England",
+                "shortname": "ENG",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+            },
+            {
+                "name": "Afghanistan",
+                "shortname": "AFG",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg"
+            }
+        ]
+    },
+    {
+        "name": "South Africa vs Pakistan, 40th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-10-29",
+        "dateTimeGMT": "2023-10-29T14:30:00",
+        "teams": [
+            "South Africa",
+            "Pakistan"
+        ],
+        "teamInfo": [
+            {
+                "name": "South Africa",
+                "shortname": "SA",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+            },
+            {
+                "name": "Pakistan",
+                "shortname": "PAK",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+            }
+        ]
+    },
+    {
+        "name": "Sri Lanka vs England, 41st of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-10-31",
+        "dateTimeGMT": "2023-10-31T14:30:00",
+        "teams": [
+            "Sri Lanka",
+            "England"
+        ],
+        "teamInfo": [
+            {
+                "name": "Sri Lanka",
+                "shortname": "SL",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+            },
+            {
+                "name": "England",
+                "shortname": "ENG",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+            }
+        ]
+    },
+    {
+        "name": "Afghanistan vs Australia, 42nd of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-11-01",
+        "dateTimeGMT": "2023-11-01T14:30:00",
+        "teams": [
+            "Afghanistan",
+            "Australia"
+        ],
+        "teamInfo": [
+            {
+                "name": "Afghanistan",
+                "shortname": "AFG",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg"
+            },
+            {
+                "name": "Australia",
+                "shortname": "AUS",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+            }
+        ]
+    },
+    {
+        "name": "Bangladesh vs South Africa, 43rd of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-11-02",
+        "dateTimeGMT": "2023-11-02T14:30:00",
+        "teams": [
+            "Bangladesh",
+            "South Africa"
+        ],
+        "teamInfo": [
+            {
+                "name": "Bangladesh",
+                "shortname": "BAN",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+            },
+            {
+                "name": "South Africa",
+                "shortname": "SA",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+            }
+        ]
+    },
+    {
+        "name": "Pakistan vs Netherlands, 44th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-11-03",
+        "dateTimeGMT": "2023-11-03T14:30:00",
+        "teams": [
+            "Pakistan",
+            "Netherlands"
+        ],
+        "teamInfo": [
+            {
+                "name": "Pakistan",
+                "shortname": "PAK",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+            },
+            {
+                "name": "Netherlands",
+                "shortname": "NED",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+            }
+        ]
+    },
+    {
+        "name": "New Zealand vs India, 45th of 48",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-11-04",
+        "dateTimeGMT": "2023-11-04T14:30:00",
+        "teams": [
+            "New Zealand",
+            "India"
+        ],
+        "teamInfo": [
+            {
+                "name": "New Zealand",
+                "shortname": "NZ",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+            },
+            {
+                "name": "India",
+                "shortname": "IND",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+            }
+        ]
+    }
+]

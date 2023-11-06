@@ -1,0 +1,98 @@
+const allTeamsDetails = [
+  {
+    name: "Australia",
+    shortName: "AUS",
+    img: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+    boardName: "Australian National Cricket Team",
+    boardLogo:
+      "https://seeklogo.com/images/C/cricket-australia-logo-B7F9D8E95A-seeklogo.com.png",
+    history:
+      "The Australian national cricket team, known as The Baggy Greens, is one of the most successful cricket teams in the world. Established in 1877, the team has a storied history in international cricket.",
+    Achievements: [
+      {
+        nameOfAchievement: "Cricket World Cup Winners",
+        year: "1987",
+      },
+      {
+        nameOfAchievement: "Cricket World Cup Winners",
+        year: "1999",
+      },
+    ],
+    
+    squads: [
+      {
+        playerName: "David Warner",
+        position: "Left-handed batsman",
+        img: "https://en.wikipedia.org/wiki/David_Warner_(cricketer)#/media/File:David_Warner_2022.jpg",
+        role: "captain",
+      },
+      {
+        playerName: "Pat Cummins",
+        position: "Right-arm fast bowler",
+        img: "https://en.wikipedia.org/wiki/Pat_Cummins#mediaviewer/File:Pat_Cummins_at_the_2019_ICC_Cricket_World_Cup.jpg",
+        role: "vaicecaptain",
+      },
+      {
+        playerName: "Steve Smith",
+        position: "Right-handed batsman",
+        img: "https://en.wikipedia.org/wiki/Steve_Smith_(cricketer)#/media/File:Steve_Smith_2019.jpg",
+      },
+      {
+        playerName: "Glenn Maxwell",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Glenn_Maxwell_(cricketer)#/media/File:Glenn_Maxwell_2019_WBBL.jpg",
+      },
+      {
+        playerName: "Marcus Stoinis",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Marcus_Stoinis#mediaviewer/File:Marcus_Stoinis_2020_BBL.jpg",
+      },
+      {
+        playerName: "Alex Carey",
+        position: "Wicket-keeper batsman",
+        img: "https://en.wikipedia.org/wiki/Alex_Carey_(cricketer)#mediaviewer/File:Alex_Carey_2019.jpg",
+      },
+      {
+        playerName: "Mitchell Starc",
+        position: "Left-arm fast bowler",
+        img: "https://en.wikipedia.org/wiki/Mitchell_Starc#mediaviewer/File:Mitchell_Starc_2015.jpg",
+      },
+      {
+        playerName: "Josh Hazlewood",
+        position: "Right-arm fast bowler",
+        img: "https://en.wikipedia.org/wiki/Josh_Hazlewood#mediaviewer/File:Josh_Hazlewood_2019.jpg",
+      },
+      {
+        playerName: "Adam Zampa",
+        position: "Leg-spin bowler",
+        img: "https://en.wikipedia.org/wiki/Adam_Zampa#mediaviewer/File:Adam_Zampa_2019_BBL.jpg",
+      },
+      {
+        playerName: "Cameron Green",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Cameron_Green_(cricketer)#mediaviewer/File:Cameron_Green_2021_WBBL.jpg",
+      },
+      {
+        playerName: "Mitchell Marsh",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Mitchell_Marsh_(cricketer)#mediaviewer/File:Mitchell_Marsh_2019.jpg",
+      },
+      {
+        playerName: "Ashton Agar",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Ashton_Agar#mediaviewer/File:Ashton_Agar_2022.jpg",
+      },
+      {
+        playerName: "Sean Abbott",
+        position: "All-rounder",
+        img: "https://en.wikipedia.org/wiki/Sean_Abbott_(cricketer)#mediaviewer/File:Sean_Abbott_2016.jpg",
+      },
+      {
+        playerName: "Josh Inglis",
+        position: "Wicket-keeper batsman",
+        img: "https://en.wikipedia.org/wiki/Josh_Inglis_(cricketer)#mediaviewer/File:Josh_Inglis_2022.jpg",
+      },
+    ],
+  },
+
+];
